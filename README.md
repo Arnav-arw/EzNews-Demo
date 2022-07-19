@@ -1,7 +1,9 @@
 # EzNews
 
-This was my first proper Swift app. Its a news app made for iOS, iPadOS and macOS. It uses [NewsAPI](https://newsapi.org) as its source of news.
-Its the best news app I have ever used (Although I am pretty biased 😛)
+This was my first proper Swift app. Its a news app made for iOS, iPadOS, watchOS and macOS. It uses [NewsAPI](https://newsapi.org) as its source of news.
+Its the best news app I have ever used (Although I am pretty biased 😛).
+
+<img width="500" alt="EzNews Showcase" src="https://user-images.githubusercontent.com/88189594/179697240-35d87b04-1883-47eb-afca-4e321d09866a.png">
 
 Features:
 
