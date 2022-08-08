@@ -5,7 +5,7 @@ Its the best news app I have ever used (Although I am pretty biased 😛).
 
 <img width="500" alt="EzNews Showcase" src="https://user-images.githubusercontent.com/88189594/179697240-35d87b04-1883-47eb-afca-4e321d09866a.png">
 
-Features:
+### Features:
 
 1. By default, App shows the news of the country you're in.
 2. You can change the country and category in the News feed.
